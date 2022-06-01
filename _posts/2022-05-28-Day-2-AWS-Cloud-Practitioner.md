@@ -15,7 +15,10 @@
 * Functions
   *  Serverless computing - Lambda functions
   *  Just provide code and AWS will take care of everything that needs to be done to run it.
+
+
 ---
+
 ### Vertical vs Horizontal Scaling
 * Vertical Scaling
   * Increasing the power of the existing server

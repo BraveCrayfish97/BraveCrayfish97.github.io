@@ -19,6 +19,8 @@
 * Traffic is not routed to deffective servers
   * AWS ELB runs keepalive checks on its EC2 instances and won't send traffic if checks come back negative
 * Distributes traffic across its EC2 Instances
+
+
 ---
 
 ### Types of Load Balancers

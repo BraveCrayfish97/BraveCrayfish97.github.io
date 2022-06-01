@@ -15,7 +15,9 @@
   * Customer has NO control over the server and CANNOT deploy code to the server.
   * Customer can ONLY use the service
   * Ex: GMAIL, Office 365, Drive, Salesforce 
+
 ---
+
 ### Cloud Deployment Models
 * Private Cloud
   * Utilizing cloud technologies such as VMs but on-premise.
@@ -31,7 +33,10 @@
   * Ex: Using AWS and Azure.
 * Community Cloud
   * Specific to government and China
+
+
 ---
+
 ### Advantages of moving to Cloud from On-Premise
 * **Agility** is the ability to respond to change rapidly based on changes to market or environment, ensuring fast time to market
 * **Elasticity** is the ability to automatically or dynamically increase or decrease resources as needed

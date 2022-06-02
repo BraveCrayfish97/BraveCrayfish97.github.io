@@ -12,9 +12,9 @@
   *   same thing as NAT Gateway but it runs on a user created EC2 instance
   *   legacy
 * VPN Gateway (site to site VPN)
-  * 
-* AWS Client VPN (user to AWS)
   * private over-the-internet encrypted and cheap method of connecting on-premise to AWS Cloud
+* AWS Client VPN (user to AWS)
+  * private over-the-internet encrypted and cheap method of connecting a user machine such as a personal laptop to AWS Cloud
 * Direct Connect
   * dedicated expensive high-consistent bandwidth and speed method of connecting on-premise to AWS Cloud
   * physical wire is laid between on-premise and AWS datacenter which may require 3rd party such as Verizon.

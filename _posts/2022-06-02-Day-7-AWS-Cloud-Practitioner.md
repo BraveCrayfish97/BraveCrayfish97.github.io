@@ -33,8 +33,3 @@
   * used when connecting VPC to all other AWS services
   * connects to a private IP which allows access to given AWS service
 
----
-
-### 
-* 
-  * 
